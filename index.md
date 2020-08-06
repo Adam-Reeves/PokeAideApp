@@ -18,10 +18,6 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 The app does not collect any information from you nor does it use third party services that collect information used to identify you.
 
-**Log Data**
-
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
-
 **Cookies**
 
 This app does not use cookies nor does it use any third party code that uses cookies.
